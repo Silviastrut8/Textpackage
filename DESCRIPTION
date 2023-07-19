@@ -1,0 +1,15 @@
+Package: text
+Type: Package
+Title: A package for text analysis
+Version: 0.1.0
+Author: Silvia Strutynski
+Maintainer: Silvia Strutynski <S.Strutynski@lmu.campus.de>
+Description: The package is able to provide text analysis.    It's made for calculating the total number of words in a text document,    and for for generating a word cloud visualization based on the frequency    of words in a text document.Both requires a character variable or a file    path to a text file.
+License: MIT
+Encoding: UTF-8
+LazyData: true
+Imports:
+  tm,
+  wordcloud,
+  RColorBrewer
+
