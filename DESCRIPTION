@@ -1,4 +1,4 @@
-Package: text
+Package: Textpackage
 Type: Package
 Title: A package for text analysis
 Version: 0.1.0
